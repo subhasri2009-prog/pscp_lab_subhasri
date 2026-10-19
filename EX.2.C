@@ -1,4 +1,3 @@
-// Add bitwise operation programs
 #include <stdio.h>
 int main()
 {
